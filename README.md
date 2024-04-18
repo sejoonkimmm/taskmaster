@@ -26,3 +26,10 @@ Minimal Resource Utilization: Designed to run with minimal system resources, mak
 Python 3.6 or later
 'PyYAML' for configuration file parsing.
 
+## Requirements
+* Example Connfiguration File:
+<img width="885" alt="image" src="https://github.com/sejoonkimmm/taskmaster/assets/117820621/ff588457-faee-470a-a744-b6c0740e9d57">
+
+* Using PyPi
+<img width="922" alt="image" src="https://github.com/sejoonkimmm/taskmaster/assets/117820621/0ac3cbeb-a55c-4d91-ab35-197f59160a38">
+

@@ -41,9 +41,9 @@ class Config:
         """ Reload the configuration from the YAML file. """
         self.config = self.load_config()
 
-    def get_program(self):
+    def get_program(self, program_name):
         """ Retrieve the 'program' section from the config file. """
-        return self.config.get('programs', {})
+        return self.config.get['programs'].get(program_name, {})
 
 
 # You might include other helpful methods or validation logic here.
